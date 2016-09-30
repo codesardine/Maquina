@@ -1,3 +1,5 @@
+this is deprecated, it was a good exercise!
+
 `Maquina` (machine) Wordpress Theme Based on underscores
 Starter blank theme based on underscores.
 
